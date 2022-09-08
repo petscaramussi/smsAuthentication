@@ -1,4 +1,4 @@
-# petshop
+# Auth
 
 A new Flutter project.
 
